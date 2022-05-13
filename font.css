@@ -1,0 +1,131 @@
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Thin.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-ExtraLight.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Light.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Medium.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-SemiBold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Bold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-ExtraBold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Black.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-ThinItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-ExtraLightItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-LightItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-Italic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 400;
+}
+
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-MediumItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-SemiBoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-BoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-ExtraBoldItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 800;
+}
+
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./woff2/PlusJakartaSans-BlackItalic.woff2') format('woff2');
+    font-style: italic;
+    font-weight: 900;
+}
