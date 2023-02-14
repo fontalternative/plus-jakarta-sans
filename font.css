@@ -1,0 +1,13 @@
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./variable/PlusJakartaSans[wght].ttf') format('woff2');
+    font-style: normal;
+    font-weight: 200 800;
+}
+
+@font-face {
+    font-family: '+Jakarta Sans';
+    src: url('./variable/PlusJakartaSans-Italic[wght].ttf') format('woff');
+    font-style: italic;
+    font-weight: 200 800;
+}
